@@ -23,22 +23,22 @@
 * Akses **Root** (Linux/Termux) atau **Administrator** (Windows)
 
 ## 2. cloning
-# Clone direktori ini atau extract file zip
+## Clone direktori ini atau extract file zip
 ```
 cd wifi_pro
 ```
-# Install dependencies yang dibutuhkan
+## Install dependencies yang dibutuhkan
 ```
 pip install pywifi
 ```
 ## 3. Cara Penggunaan
 Siapkan Wordlist : Masukkan daftar password kamu ke dalam file data/passwords.txt.
 Jalankan Tool :
-# Menggunakan wordlist default
+## Menggunakan wordlist default
 ```
 python main.py
 ```
-# Menggunakan wordlist custom
+## Menggunakan wordlist custom
 ```
 python main.py /jalur/ke/wordlist.txt
 ```
