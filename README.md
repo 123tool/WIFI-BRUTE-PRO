@@ -1,4 +1,4 @@
-## ⚡ WIFI-BRUTE PRO
+## ⚡ WIFI BRUTE PRO
 
 **WIFI-BRUTE PRO** adalah tool audit keamanan jaringan nirkabel yang dirancang untuk pengujian penetrasi (Pentesting) pada protokol WPA2-PSK. Dikembangkan dengan arsitektur modular untuk stabilitas tinggi dan performa yang lebih agresif dibandingkan script standar.
 
@@ -42,6 +42,6 @@ python main.py
 ```
 python main.py /jalur/ke/wordlist.txt
 ```
-Pilih Target: Pilih ID WiFi yang muncul di layar, lalu tekan Enter.
 
-Tunggu Proses: Biarkan engine bekerja. Jika ditemukan, password akan muncul di layar dan tersimpan di data/logs.txt.
+- Pilih Target: Pilih ID WiFi yang muncul di layar, lalu tekan Enter.
+- Tunggu Proses : Biarkan engine bekerja. Jika ditemukan, password akan muncul di layar dan tersimpan di data/logs.txt.
